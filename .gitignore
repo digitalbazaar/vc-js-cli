@@ -1,0 +1,13 @@
+*.sw[nop]
+*.py[co]
+*~
+*.bak
+.DS_Store
+.project
+.settings
+TAGS
+config.json
+node_modules/
+package-lock.json
+*.vswp
+my-key.json

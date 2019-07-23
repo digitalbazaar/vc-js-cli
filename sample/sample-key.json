@@ -1,0 +1,7 @@
+{
+  "id": "https://example.edu/issuers/keys/1",
+  "type": "Ed25519VerificationKey2018",
+  "controller": "https://example.edu/issuers/14",
+  "publicKeyBase58": "AoncetDEamr1hreoMiLocvQvCLEu5i5FuQ232zdqie7g",
+  "privateKeyBase58": "53KBp86VkzDKthrZdQCKv4UaAWd74DWCqgbmYmXuLytgbU7pFghAWs23Tdd9iacMLZtkvwdo5vCvDQ8vj24HdJYv"
+}

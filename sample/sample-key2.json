@@ -1,0 +1,7 @@
+{
+  "id": "https://gist.githubusercontent.com/mattcollier/35f967935cbf683cc30e31c7eb0c74cd/raw",
+  "type": "Ed25519VerificationKey2018",
+  "controller": "https://gist.githubusercontent.com/mattcollier/79aecbf4807c58fd10167d7249ce6f23/raw",
+  "publicKeyBase58": "AoncetDEamr1hreoMiLocvQvCLEu5i5FuQ232zdqie7g",
+  "privateKeyBase58": "53KBp86VkzDKthrZdQCKv4UaAWd74DWCqgbmYmXuLytgbU7pFghAWs23Tdd9iacMLZtkvwdo5vCvDQ8vj24HdJYv"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "vc-js-cli",
+  "version": "0.0.1-dev",
+  "description": "Command line tool for vc-js.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/vc-js-cli"
+  },
+  "dependencies": {
+    "axios": "^0.18.1",
+    "commander": "^2.20.0",
+    "credentials-context": "^1.0.0",
+    "ecdsa-secp256k1-signature-2019": "digitalbazaar/ecdsa-secp256k1-signature-2019#0aba39766902e73ea9895c1bb643b307468c4ef5",
+    "fs-extra": "^8.1.0",
+    "get-stdin": "^7.0.0",
+    "jsonld-signatures": "digitalbazaar/jsonld-signatures#node-12",
+    "secp256-key-pair": "^1.0.0",
+    "vc-js": "digitalbazaar/vc-js#node-12"
+  },
+  "bin": {
+    "vc-js-cli": "./index.js"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com/"
+  },
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "eslint": "^6.0.0",
+    "eslint-config-digitalbazaar": "^2.0.0"
+  }
+}
