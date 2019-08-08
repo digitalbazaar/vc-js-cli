@@ -24,13 +24,21 @@ information, background and discussion.
 
 ## Install
 
-Requirements:
+To use this tool, you only need Docker and Git. 
+
+To develop/modify it, you will also need to install Node.js and other deps. 
+
+#### Requirements (to use)
 * A 64-bit system
 * git >= v2.x
 * Docker >= 18.x (and a Docker Hub account(?))
 
-To install locally (for development):
+#### Requirements (to modify/develop)
 
+In addition to the usage requirements above, you will need to install `npm`
+and Node.js 12+.
+
+To install locally (for development):
 ```
 git clone https://github.com/digitalbazaar/vc-js-cli.git
 cd vc-js-cli
@@ -38,8 +46,6 @@ npm install
 ```
 
 ## Usage
-
-TBD
 
 See the [VC Demo](https://github.com/digitalbazaar/vc-demo) repo for some
 instructions to get started.
