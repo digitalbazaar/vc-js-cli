@@ -4,12 +4,17 @@
 
 ## Table of Contents
 
+- [Usage](#usage)
 - [Background](#background)
 - [Install](#install)
-- [Usage](#usage)
 - [Contribute](#contribute)
 - [Commercial Support](#commercial-support)
 - [License](#license)
+
+## Usage
+
+See the [VC Demo](https://github.com/digitalbazaar/vc-demo) repo for some
+instructions to get started.
 
 ## Background
 
@@ -44,11 +49,6 @@ git clone https://github.com/digitalbazaar/vc-js-cli.git
 cd vc-js-cli
 npm install
 ```
-
-## Usage
-
-See the [VC Demo](https://github.com/digitalbazaar/vc-demo) repo for some
-instructions to get started.
 
 ## Contribute
 
