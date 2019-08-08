@@ -5,3 +5,4 @@ Dockerfile
 .git
 .gitignore
 .eslintrc.js
+my-key.json
