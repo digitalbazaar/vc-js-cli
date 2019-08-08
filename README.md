@@ -4,17 +4,12 @@
 
 ## Table of Contents
 
-- [Usage](#usage)
 - [Background](#background)
+- [Usage](#usage)
 - [Install](#install)
 - [Contribute](#contribute)
 - [Commercial Support](#commercial-support)
 - [License](#license)
-
-## Usage
-
-See the [VC Demo](https://github.com/digitalbazaar/vc-demo) repo for some
-instructions to get started.
 
 ## Background
 
@@ -26,6 +21,11 @@ languages).
 
 See the [`vc-js` README](https://github.com/digitalbazaar/vc-js) for further
 information, background and discussion. 
+
+## Usage
+
+See the [VC Demo](https://github.com/digitalbazaar/vc-demo) repo for some
+instructions to get started.
 
 ## Install
 
