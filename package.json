@@ -21,7 +21,7 @@
     "vc-js": "~0.2.0"
   },
   "bin": {
-    "vc-js-cli": "./index.js"
+    "vc-js-cli": "index.js"
   },
   "author": {
     "name": "Digital Bazaar, Inc.",
