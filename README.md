@@ -27,6 +27,9 @@ information, background and discussion.
 See the [VC Demo](https://github.com/digitalbazaar/vc-demo) repo for some
 instructions to get started.
 
+If using the `keygen` command, you will need a GitHub Personal Access Token with
+at least "gist" permissions.
+
 ## Install
 
 To use this tool, you only need Docker and Git. 
