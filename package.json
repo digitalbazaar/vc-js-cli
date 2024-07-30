@@ -30,7 +30,7 @@
   },
   "license": "BSD-3-Clause",
   "devDependencies": {
-    "eslint": "^6.0.0",
-    "eslint-config-digitalbazaar": "^2.0.0"
+    "eslint": "^8.0.0",
+    "eslint-config-digitalbazaar": "^5.2.0"
   }
 }
